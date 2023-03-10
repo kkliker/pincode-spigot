@@ -1,0 +1,6 @@
+name: qSosatChlenOsla
+version: 0.1
+api-version: 1.18
+main: ru.qship.qSosatChlenOsla
+commands:
+  AddPassToDoor:
